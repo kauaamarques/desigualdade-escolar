@@ -1,0 +1,47 @@
+{
+    padding: 10px;
+    margin: 2;
+    box-sizing: border-box
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 3px;
+    font-style: oblique;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+}
+main{
+    text-align: center;
+    font-style: inherit;
+}
+body{
+   /* background-image: url(https://t3.ftcdn.net/jpg/05/69/01/22/360_F_569012283_R50lPAd9jpDtBTZfeOOQnHlfuZpkCMRQ.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   background-attachment: fixed; */
+
+   /* background-image: linear-gradient(90deg, rgb(229, 255, 0), rgb(0, 102, 255), rgb(6, 179, 6)); */
+   background-image: background: rgb(0,0,0);
+   background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(196,196,196,1) 50%, rgba(0,0,0,1) 100%);
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 5%;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.0em;
+    text-align: justify;
+    margin-bottom: 2%;
+    text-indent: 50px;
+
+}
